@@ -1,6 +1,7 @@
 # discord ライブラリをインポート
 import discord
 from discord.app_commands import Choice
+import freedom_of_voicechannel
 
 # requestライブラリをインポート
 import requests
